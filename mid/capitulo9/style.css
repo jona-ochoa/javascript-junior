@@ -1,0 +1,30 @@
+body {
+    color: #333;
+    font-family: sans-serif;
+}
+
+.container {
+    padding: 30px;
+    background: red;
+}
+
+.button {
+    padding: 8px 16px;
+    background: greenyellow;
+    border: none;
+    border-radius: 5px;
+}
+.seleccionado {
+    color: #777; 
+}
+.seleccionado b {
+    color: green;
+}
+
+.input-prueba {
+    outline: none;
+    border: 1px solid #000;
+    padding: 6px;
+    color: #444;
+    border-radius: 6px;
+}
